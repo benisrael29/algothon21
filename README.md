@@ -1,6 +1,5 @@
-# SIG x FinTechSoc Algothon 2021
-Contains evaluation program, relevant price data and an example algorithm/submission file for the Algothon. We'd highly recommend cloning this repo to use a base for your algorithm development, and to make it easier for submission.
-
+# SIG x FinTechSoc Algothon 2021- Team: Strength in Numbers
+Contains evaluation program, relevant price data and an example algorithm/submission file for the Algothon. Our submission is found in teamname.py. Our strategy was a mean reversion one using an exponetial moving average. This strategy got our team to the finals. 
 **Good luck!**
 
 # Case Brief
